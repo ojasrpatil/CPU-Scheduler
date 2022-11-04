@@ -1,12 +1,3 @@
-'''
-Author: Ojas Patil
-KUID: 3042635
-Date: Wednesday, February 24, 2022
-Lab: lab03
-Last modified: February 27, 2022
-Purpose:
-'''
-
 from node_class import Node
 from queue_class import Queue
 
